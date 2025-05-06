@@ -1,0 +1,67 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun May 04 16:34:36 2025
+[*]
+[dumpfile] "C:\Users\bilal\Desktop\2024-2025 Bahar\Bilgisayar Organizasyonu\Single-Cycle-RISC-V-Processor-Design\Q3\Datapath_tb.vcd"
+[dumpfile_mtime] "Wed Apr 30 16:07:31 2025"
+[dumpfile_size] 8949
+[savefile] "C:\Users\bilal\Desktop\2024-2025 Bahar\Bilgisayar Organizasyonu\Single-Cycle-RISC-V-Processor-Design\Q3\1.çýktý.gtkw"
+[timestart] 74760
+[size] 1000 623
+[pos] 190 4
+*-14.022283 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Datapath_tb.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 161
+@28
+[color] 3
+Datapath_tb.uut.clk
+[color] 3
+Datapath_tb.uut.reset
+@22
+Datapath_tb.uut.PC[31:0]
+Datapath_tb.uut.Instr[31:0]
+@28
+[color] 5
+Datapath_tb.uut.RegWrite
+@22
+Datapath_tb.uut.A1[4:0]
+Datapath_tb.uut.A2[4:0]
+Datapath_tb.uut.A3[4:0]
+Datapath_tb.uut.RD1[31:0]
+Datapath_tb.uut.RD2[31:0]
+Datapath_tb.uut.Result[31:0]
+@28
+[color] 5
+Datapath_tb.uut.ALUSrc
+@22
+[color] 3
+Datapath_tb.uut.SrcA[31:0]
+[color] 3
+Datapath_tb.uut.SrcB[31:0]
+@28
+[color] 3
+Datapath_tb.uut.ALUControl[2:0]
+[color] 7
+Datapath_tb.uut.ImmSrc[1:0]
+@22
+[color] 7
+Datapath_tb.uut.ImmExt[31:0]
+@28
+[color] 5
+Datapath_tb.uut.ResultSrc[1:0]
+@22
+[color] 5
+Datapath_tb.uut.Result[31:0]
+@28
+[color] 5
+Datapath_tb.uut.MemWrite
+@23
+[color] 1
+Datapath_tb.uut.ReadData[31:0]
+[color] 1
+Datapath_tb.uut.WriteData[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
